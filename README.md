@@ -1,6 +1,8 @@
 
-# Welcome to LearnCS8 Resume Website
+# Welcome to Garrett's LearnCS8 Resume Website
 
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
+![Screenshot](img/screenshot.PNG)
+
+This website created with a template provided by LearnCS8
 
 Special thanks to the open source bootstrap librarys that made this website possible. 
