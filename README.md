@@ -5,4 +5,4 @@
 
 This website created with a template provided by LearnCS8
 
-Special thanks to the open source bootstrap librarys that made this website possible. 
+Special thanks to the open source bootstrap libraries that made this website possible. 
